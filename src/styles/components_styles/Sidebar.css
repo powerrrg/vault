@@ -1,0 +1,6 @@
+.sidebar {
+    width: 250px;
+    min-width: 250px;
+    padding: 30px;
+    background: linear-gradient(to right, #191919 0%,#191919 95%, #484848 100%);
+}

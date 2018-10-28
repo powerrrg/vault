@@ -1,0 +1,27 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+.c-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 100vh;
+}
+.c-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: stretch;
+    flex-grow: 1;
+}
+.c-main-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+.item-title {
+    font-weight: bold;
+}
+.error-msg {
+    color: red;
+}

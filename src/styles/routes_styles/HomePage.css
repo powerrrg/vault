@@ -1,0 +1,21 @@
+.home-page {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h2-1 {
+    color: grey;
+    text-align: center;
+    font-size: 22px;
+    line-height: 28px;
+    text-transform: uppercase;
+    border-bottom: 3px solid #ececec;
+    border-top: 3px solid #ececec;
+    padding: 30px 50px;
+    font-weight: bold;
+}
+.home-image {
+    opacity: 0.1;
+}

@@ -1,0 +1,19 @@
+ul.main-menu {
+    display: block;
+    padding: 0;
+}
+ul.main-menu li {
+    display: block;
+    padding: 0;
+    border-bottom: 1px dashed grey;
+}
+ul.main-menu li a {
+    display: block;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+ul.main-menu li a:hover {
+    color: #0b97c4;
+}
